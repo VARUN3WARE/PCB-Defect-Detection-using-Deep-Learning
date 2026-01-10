@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Training outputs
+*.log
+checkpoint_epoch_*.pth
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset (too large for GitHub - 134MB)
+DeepPCB/
+
+# Model files (too large for GitHub - 43MB)
+models/*.pth
+
+# Large result images
+results/*.png

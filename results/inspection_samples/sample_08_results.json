@@ -1,0 +1,142 @@
+{
+  "image_path": "../DeepPCB/PCBData/group20085/20085/20085298_test.jpg",
+  "image_size": [
+    640,
+    640
+  ],
+  "quality_status": "FAIL",
+  "overall_severity": "CRITICAL",
+  "num_defects_detected": 6,
+  "detected_defects": [
+    {
+      "type": "open",
+      "class_id": 1,
+      "confidence": 0.980004608631134
+    },
+    {
+      "type": "short",
+      "class_id": 2,
+      "confidence": 0.700559139251709
+    },
+    {
+      "type": "mousebite",
+      "class_id": 3,
+      "confidence": 0.7730549573898315
+    },
+    {
+      "type": "spur",
+      "class_id": 4,
+      "confidence": 0.6440776586532593
+    },
+    {
+      "type": "copper",
+      "class_id": 5,
+      "confidence": 0.9475753903388977
+    },
+    {
+      "type": "pin-hole",
+      "class_id": 6,
+      "confidence": 0.8582956194877625
+    }
+  ],
+  "defect_locations": [
+    {
+      "defect_type": "mousebite",
+      "center": [
+        138,
+        190
+      ],
+      "bounding_box": [
+        122,
+        176,
+        155,
+        204
+      ],
+      "area": 924,
+      "severity": "LOW"
+    },
+    {
+      "defect_type": "short",
+      "center": [
+        82,
+        87
+      ],
+      "bounding_box": [
+        70,
+        70,
+        95,
+        105
+      ],
+      "area": 875,
+      "severity": "LOW"
+    },
+    {
+      "defect_type": "mousebite",
+      "center": [
+        456,
+        183
+      ],
+      "bounding_box": [
+        442,
+        171,
+        470,
+        196
+      ],
+      "area": 700,
+      "severity": "LOW"
+    },
+    {
+      "defect_type": "copper",
+      "center": [
+        349,
+        172
+      ],
+      "bounding_box": [
+        334,
+        159,
+        364,
+        185
+      ],
+      "area": 780,
+      "severity": "LOW"
+    },
+    {
+      "defect_type": "pin-hole",
+      "center": [
+        442,
+        21
+      ],
+      "bounding_box": [
+        429,
+        9,
+        455,
+        34
+      ],
+      "area": 650,
+      "severity": "LOW"
+    },
+    {
+      "defect_type": "short",
+      "center": [
+        156,
+        55
+      ],
+      "bounding_box": [
+        137,
+        43,
+        175,
+        67
+      ],
+      "area": 912,
+      "severity": "LOW"
+    }
+  ],
+  "all_confidence_scores": {
+    "open": 0.980004608631134,
+    "short": 0.700559139251709,
+    "mousebite": 0.7730549573898315,
+    "spur": 0.6440776586532593,
+    "copper": 0.9475753903388977,
+    "pin-hole": 0.8582956194877625
+  }
+}

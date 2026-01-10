@@ -1,0 +1,16 @@
+Sample #,Predicted Defects,Actual Defects,Correct,Max Confidence
+361,"open (0.99), short (0.89), mousebite (0.86), spur (0.92), pin-hole (0.91)","open, short, mousebite, spur, pin-hole",✅,0.994
+73,"open (0.94), short (0.83), mousebite (0.71), spur (0.67), copper (0.99), pin-hole (0.96)","open, short, mousebite, copper",❌,0.985
+374,"open (1.00), short (0.86), mousebite (0.92), spur (0.91), copper (1.00), pin-hole (0.99)","open, short, copper, pin-hole",❌,1.000
+155,"open (1.00), short (0.93), mousebite (0.91), spur (0.94), pin-hole (0.89)","open, short, mousebite, copper, pin-hole",❌,0.997
+104,"open (0.96), short (0.85), mousebite (0.72), spur (0.75), copper (0.78), pin-hole (0.93)","open, short, spur, pin-hole",❌,0.962
+394,"open (0.98), short (0.65), mousebite (0.87), spur (0.79), copper (1.00), pin-hole (0.98)","open, short, mousebite, copper, pin-hole",❌,1.000
+377,"open (0.93), mousebite (0.82), spur (0.81), copper (1.00), pin-hole (0.96)","open, short, mousebite, spur, copper, pin-hole",❌,0.999
+124,"open (0.78), short (0.66), mousebite (0.78), spur (0.72)","open, short, mousebite, spur, copper, pin-hole",❌,0.781
+68,"open (0.93), short (0.70), mousebite (0.88), spur (0.76), copper (1.00), pin-hole (0.98)","open, mousebite, spur, copper, pin-hole",❌,1.000
+450,"open (0.98), short (0.77), mousebite (0.74), spur (0.79), copper (1.00), pin-hole (0.97)","open, short, mousebite, spur, copper, pin-hole",✅,1.000
+9,"open (0.97), short (0.93), mousebite (0.87), spur (0.89), copper (0.96), pin-hole (0.85)","open, mousebite, spur, copper",❌,0.972
+194,"open (0.98), short (0.96), mousebite (0.80), spur (0.89), copper (0.95), pin-hole (0.94)","open, mousebite, spur, copper, pin-hole",❌,0.981
+406,"open (0.95), short (0.63), mousebite (0.82), spur (0.77), copper (1.00), pin-hole (0.96)","open, short, mousebite, copper, pin-hole",❌,0.999
+84,"open (0.80), mousebite (0.74), spur (0.69), copper (1.00), pin-hole (0.98)","open, mousebite, spur, copper, pin-hole",✅,1.000
+371,"open (1.00), short (0.81), mousebite (0.87), spur (0.81), copper (1.00), pin-hole (0.99)","open, short, mousebite, spur, copper, pin-hole",✅,1.000

@@ -1,0 +1,161 @@
+{
+  "total_inspected": 10,
+  "passed": 0,
+  "failed": 10,
+  "pass_rate": 0.0,
+  "defect_statistics": {
+    "open": 10,
+    "short": 9,
+    "mousebite": 10,
+    "spur": 10,
+    "copper": 7,
+    "pin-hole": 9
+  },
+  "samples": [
+    {
+      "sample_id": 1,
+      "filename": "20085291_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 6,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "copper",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 2,
+      "filename": "20085292_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 6,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "copper",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 3,
+      "filename": "20085293_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 5,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 4,
+      "filename": "20085294_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 5,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 5,
+      "filename": "20085295_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 6,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "copper",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 6,
+      "filename": "20085296_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 6,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "copper",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 7,
+      "filename": "20085297_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 5,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 8,
+      "filename": "20085298_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 6,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "copper",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 9,
+      "filename": "20085299_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 6,
+      "defects": [
+        "open",
+        "short",
+        "mousebite",
+        "spur",
+        "copper",
+        "pin-hole"
+      ]
+    },
+    {
+      "sample_id": 10,
+      "filename": "20085300_test.jpg",
+      "status": "FAIL",
+      "severity": "CRITICAL",
+      "num_defects": 4,
+      "defects": [
+        "open",
+        "mousebite",
+        "spur",
+        "copper"
+      ]
+    }
+  ]
+}
